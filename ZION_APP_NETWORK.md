@@ -1,27 +1,21 @@
-# Zion AI App Network — Interlinks
+# 🌐 Zion AI App Network — Interlink Directory
 
-**Batch 74: Customer Experience & Retention AI** (Oct 4, 2026)
+Part of the **Zion AI App Network** by [Zion Tech Group](https://ziontechgroup.com).
 
-## This app
-- Support Sentiment Radar — https://ziontechgroup.com/support-sentiment-radar/
+- Free AI Discovery: https://ziontechgroup.com/discovery/ (results to you + commercial@ziontechgroup.com)
+- Plans: https://ziontechgroup.com/en/plans/ | Showcase: https://ziontechgroup.com/apps/network.html | Hub: https://github.com/Zion-support/zion-network
 
-## Batch 74 sibling apps
-- Churn Prediction AI — https://ziontechgroup.com/churn-prediction-ai/ | https://github.com/Zion-support/churn-prediction-ai
-- Customer Feedback Analyzer — https://ziontechgroup.com/customer-feedback-analyzer/ | https://github.com/Zion-support/customer-feedback-analyzer
-- NPS Insight Copilot — https://ziontechgroup.com/nps-insight-copilot/ | https://github.com/Zion-support/nps-insight-copilot
-- Onboarding Journey Optimizer — https://ziontechgroup.com/onboarding-journey-optimizer/ | https://github.com/Zion-support/onboarding-journey-optimizer
-- Loyalty Program Optimizer — https://ziontechgroup.com/loyalty-program-optimizer/ | https://github.com/Zion-support/loyalty-program-optimizer
-
-## Related network apps
-- AI Assessment Engine — https://ziontechgroup.com/ai-assessment-engine/
-- Vendor Onboarding Copilot — https://ziontechgroup.com/vendor-onboarding-copilot/
-
-## Free Discovery (always online, always free)
-https://ziontechgroup.com/discovery/ — fill the questionnaire, get your AI discovery results instantly. Results are also emailed to you and to our commercial team (commercial@ziontechgroup.com).
-
-## Network hub
-- Hub repo: https://github.com/Zion-support/zion-app-network
-- Network index: https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md
-- Homepage: https://ziontechgroup.com
-
-© 2026 Zion Tech Group
+## Sister apps
+- [litigation-doc-reviewer](https://github.com/Zion-support/litigation-doc-reviewer)
+- [regulation-change-tracker](https://github.com/Zion-support/regulation-change-tracker)
+- [privacy-request-handler](https://github.com/Zion-support/privacy-request-handler)
+- [legal-doc-drafter](https://github.com/Zion-support/legal-doc-drafter)
+- [contract-clause-analyzer](https://github.com/Zion-support/contract-clause-analyzer)
+- [compliance-gap-scanner](https://github.com/Zion-support/compliance-gap-scanner)
+- [legal-contract-analyzer](https://github.com/Zion-support/legal-contract-analyzer)
+- [litigation-hold-manager](https://github.com/Zion-support/litigation-hold-manager)
+- [gdpr-dsar-autopilot](https://github.com/Zion-support/gdpr-dsar-autopilot)
+- [support-sentiment-radar](https://github.com/Zion-support/support-sentiment-radar)
+- [onboarding-journey-optimizer](https://github.com/Zion-support/onboarding-journey-optimizer)
+- [nps-insight-copilot](https://github.com/Zion-support/nps-insight-copilot)
+- [customer-feedback-analyzer](https://github.com/Zion-support/customer-feedback-analyzer)
